@@ -1,0 +1,4 @@
+R語言
+
+PS F:\R-260817> git config --global user.name "CLH"     
+PS F:\R-260817> git config --global user.email "clh@test.com"
