@@ -2,3 +2,4 @@ R語言
 
 PS F:\R-260817> git config --global user.name "CLH"     
 PS F:\R-260817> git config --global user.email "clh@test.com"
+這是測試提交非文字檔案類型異動
