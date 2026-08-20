@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+*.exe
+*.zip
+**_MACOSX

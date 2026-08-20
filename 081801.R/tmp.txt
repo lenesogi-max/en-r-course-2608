@@ -1,0 +1,15 @@
+mysql -u root -p"Sakua@0402" --default-character-set=utf8mb4 shop < sql\sql\orders.sql > order.tsv
+
+mysql -u root -p"Sakua@0402" --default-character-set=utf8mb4 shop < sql\sql\orders.sql > brand_lookup.tsv
+
+mysql -u root -p"Sakua@0402" --default-character-set=utf8mb4 shop < sql\sql\orders.sql > categories.tsv
+
+mysql -u root -p"Sakua@0402" --default-character-set=utf8mb4 shop < sql\sql\orders.sql > city_lookup.tsv
+
+mysql -u root -p"Sakua@0402" --default-character-set=utf8mb4 shop < sql\sql\orders.sql > members.tsv
+
+mysql -u root -p"Sakua@0402" --default-character-set=utf8mb4 shop < sql\sql\orders.sql > order_items.tsv
+
+mysql -u root -p"Sakua@0402" --default-character-set=utf8mb4 shop < sql\sql\orders.sql > products.tsv
+
+
